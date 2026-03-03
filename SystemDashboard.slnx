@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../ExportTree/ExportTree.csproj" />
+  <Project Path="SystemDashboard/SystemDashboard.csproj" />
+</Solution>

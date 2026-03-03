@@ -1,0 +1,19 @@
+/
+├─Architecture.png
+├─ProjectStructure.txt
+├─SystemDashboard.slnx
+└─SystemDashboard/
+   ├─App.xaml
+   ├─App.xaml.cs
+   ├─Architecture.cd
+   ├─AssemblyInfo.cs
+   ├─SystemDashboard.csproj
+   ├─SystemDashboard.csproj.user
+   ├─Models/
+   ├─Services/
+   │  └─SystemMonitorService.cs
+   ├─ViewModels/
+   │  └─MainViewModel.cs
+   └─Views/
+      ├─MainWindow.xaml
+      └─MainWindow.xaml.cs
